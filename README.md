@@ -5,8 +5,15 @@ Develop with pure JS and CocosCreator
 Otimized both for desktop and mobile (landscape)
 
 # Stretch the stick in order to reach and walk on the platforms.
-# Watch out! If the stick is not long enough, you will fall down!
+<p align="center">
+  <img src="readme-assets/Start-Game.png" width="750" alt="game start">
+</p>
 
 <p align="center">
-  <img src="readme-assets/screen.png" width="750" alt="screen">
+  <img src="readme-assets/Process.png" width="750" alt="game process">
+</p>
+
+# Watch out! If the stick is not long enough, you will fall down!
+<p align="center">
+  <img src="readme-assets/Game-Over.png" width="750" alt="game over">
 </p>
