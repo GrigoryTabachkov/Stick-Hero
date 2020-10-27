@@ -1,4 +1,4 @@
-# Stick-Hero time killer game
+# Fun time-killer game with SuperMario bros main theme soundtrack
 
 Develop with pure JS and CocosCreator
 
